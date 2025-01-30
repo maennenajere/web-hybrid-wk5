@@ -27,6 +27,3 @@ Displays a map that opens at the user's current location. Users can add multiple
     ```
 
 4. Test the app using an emulator or physical device with Expo Go.
-
-git clone https://github.com/maennenajere/web-hybrid-wk4
-cd Todo
