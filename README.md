@@ -2,7 +2,7 @@
 
 Displays a map that opens at the user's current location. Users can add multiple markers to the map by long-pressing on the desired location.
 
-## Requirements
+## Features
 
 - The map is displayed.
 - The user's location is retrieved, and the map is centered at that location.
